@@ -2,5 +2,5 @@
 !*/
 !.gitignore
 !.gitattributes
-!*.tcl
 !*.srcs/**
+!*.xpr
